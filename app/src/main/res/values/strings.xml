@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">The NEWS</string>
+
+    <!-- Navigation Loan Collection Layout-->
+    <string name="nav_search_loan_overdue">Loan Overdue</string>
+    <string name="nav_search_loan_due">Loan Due</string>
+    <string name="nav_search_due_date">Due Date</string>
+    <string name="nav_search_select_co">Select CO</string>
+    <string name="nav_search_committee">Committee</string>
+    <string name="nav_search_group_id">Group ID</string>
+    <string name="nav_search_account_no">Account No</string>
+    <string name="nav_search_search">Group ID</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

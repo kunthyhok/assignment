@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  <color name="colorPrimary">#546E7A</color>-->
+    <color name="colorPrimary">#6da3cf</color>
+    <color name="colorPrimaryDark">#C4CDD1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#6AB344</color>
+    <color name="colorCheckenEgg">#FFEBC3</color>
+    <color name="colorGrey">#546E7A</color>
+    <color name="colorLowGrey">#C4CDD1</color>
+    <color name="colorLowRed">#4D90FE</color>
+    <color name="colorlowGreen">#21CE99</color>
+    <color name="colorOldGreen">#239A77</color>
+    <color name="colorPurple">#301B92</color>
+    <color name="colorSky">#30C1D4</color>
+    <color name="colorBrown">#A3887F</color>
+
+    <color name="verylowgray">#EEEEEE</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000 </color>
+
+    <color name="my_background_color">#EDE7F6</color>
+    <color name="my_button_color">#311B92</color>
+    <color name="my_text_color">#FFFFFF</color>
+    <color name="my_header_color">#673AB7</color>
+    <color name="my_status_bar_color">#251473</color>
+</resources>
